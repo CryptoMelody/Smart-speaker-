@@ -7,4 +7,5 @@ This smart speaker work on Telegram with the bot! After connecting the ESP32 and
 ***My example of design of the speaker:***
 
 
-<img width="1380" height="777" alt="Speaker" src="https://github.com/user-attachments/assets/dcdd5647-dc45-43f5-b1da-ba16b5f18b47" />
+<img width="1385" height="778" alt="Speaker" src="https://github.com/user-attachments/assets/dfcb92e0-dd53-4c28-83a4-02f62592e22e" />
+
